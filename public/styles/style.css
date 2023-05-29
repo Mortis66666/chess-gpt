@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#board {
+    width: 400px;
+}
+
+#resign-button {
+    display: block;
+    margin-top: 20px;
+}
